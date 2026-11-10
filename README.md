@@ -6,7 +6,7 @@ A Java-based Banking Management System for managing customer accounts, deposits,
 ![JDBC](https://img.shields.io/badge/JDBC-Database%20Connectivity-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-Overview
+**Overview**
 
 The **Banking Management System** is a Java-based application developed to simplify basic banking operations and customer account management.
 
